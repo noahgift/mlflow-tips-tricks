@@ -22,4 +22,4 @@ Some tips and tricks for MLFlow
 
 * [Amesar](https://amesar.github.io/)
 * [mlflow model serving](https://www.iteblog.com/ppt/data-ai-summit-2021/mlflow-model-serving_iteblog.com.pdf)
-
+* [mlflow-model-serving_iteblog](https://www.iteblog.com/ppt/data-ai-summit-2021/mlflow-model-serving_iteblog.com.pdf)
